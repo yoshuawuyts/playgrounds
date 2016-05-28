@@ -1,8 +1,12 @@
 # playgrounds
-Hi I'm Yosh and I experiment. _"Hi Yosh"_. This is a little overview of my
-experiments, for better or worse. Not all experiments are succesful, but that's
-what they're for - to spike a certain idea or technology in an isolated
-environment. It's worked out pretty well for me, perhaps it will too for you.
+Hi I'm Yosh and I experiment.
+
+_"Hi Yosh"_.
+
+This is a little overview of my experiments, for better or worse. Not all
+experiments are succesful, but that's what they're for - to spike a certain
+idea or technology in an isolated environment. It's worked out pretty well for
+me, perhaps it will too for you.
 
 ## Off to experiment land!
 In inverse chronological order (latest first):
