@@ -10,6 +10,7 @@ me, perhaps it will too for you.
 
 ## Off to experiment land!
 In inverse chronological order (latest first):
+- [neon](https://github.com/yoshuawuyts/playground-neon/tree/master)
 - [rpc](https://github.com/yoshuawuyts/playground-rpc)
 - [kubernetes](https://github.com/yoshuawuyts/playground-kubernetes)
 - [rust-file-size](https://github.com/yoshuawuyts/playground-rust-file-size)
